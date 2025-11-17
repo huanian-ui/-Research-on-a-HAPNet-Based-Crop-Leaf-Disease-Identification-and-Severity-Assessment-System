@@ -1,0 +1,5 @@
+﻿Task,Type,Accuracy,MacroF1
+Disease-only (Task2),Disease,N/A,N/A
+Multi-task (Task4),Disease,0.8503487634749525,0.826022130103428
+Severity-only (Task3),Severity,N/A,N/A
+Multi-task (Task4),Severity,0.9908053265694357,0.9879315865205129
